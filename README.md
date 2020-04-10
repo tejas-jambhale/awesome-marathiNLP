@@ -19,6 +19,7 @@ If any suggestions please open a new issue
   * [Marathi News Dataset](https://www.kaggle.com/disisbig/marathi-news-dataset)
   * [Marathi Wikipedia Articles](https://www.kaggle.com/disisbig/marathi-wikipedia-articles)
   * [Handwritten Characters](https://www.kaggle.com/shalakadeore/handwritten-marathi-devanagari-characters)
+  * [Positive/Negative Words](https://www.kaggle.com/rtatman/sentiment-lexicons-for-81-languages)
  
 ## StopWords
   * [StopWords - 99 Words](https://www.kaggle.com/rtatman/stopword-lists-for-19-languages)
