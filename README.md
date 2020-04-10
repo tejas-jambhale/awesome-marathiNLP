@@ -7,3 +7,19 @@ This repository contains tools, datasets and tutorials to aid NLP research in Ma
 Marathi is an Indian Language predominantly spoken in the state of Maharashtra, India and is based on the Devnagiri script with around 83 million speakers
 
 If any suggestions please open a new issue
+
+
+## Contents
+* Datasets
+* StopWords
+* Vectorizer
+* Tools
+
+
+## Dataset
+  * [Marathi News Dataset](https://www.kaggle.com/disisbig/marathi-news-dataset)
+  * [Marathi Wikipedia Articles](https://www.kaggle.com/disisbig/marathi-wikipedia-articles)
+  * [Handwritten Characters](https://www.kaggle.com/shalakadeore/handwritten-marathi-devanagari-characters)
+ 
+## StopWords
+  * [StopWords - 99 Words](https://www.kaggle.com/rtatman/stopword-lists-for-19-languages)
