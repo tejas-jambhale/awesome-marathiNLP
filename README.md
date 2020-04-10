@@ -12,7 +12,6 @@ If any suggestions please open a new issue
 ## Contents
 * Datasets
 * StopWords
-* Vectorizer
 * Tools
 
 
