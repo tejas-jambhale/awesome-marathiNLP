@@ -23,6 +23,7 @@ If any suggestions please open a new issue
  
 ## StopWords
   * [StopWords - 99 Words](https://www.kaggle.com/rtatman/stopword-lists-for-19-languages)
+  * [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
   
 ## Tools/Libraries
   * [iNLTK](https://github.com/goru001/inltk)
