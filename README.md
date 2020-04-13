@@ -12,7 +12,7 @@ If any suggestions please open a new issue
 ## Contents
 * Datasets
 * StopWords
-* Tools
+* Tools/Libraries
 
 
 ## Dataset
@@ -23,3 +23,7 @@ If any suggestions please open a new issue
  
 ## StopWords
   * [StopWords - 99 Words](https://www.kaggle.com/rtatman/stopword-lists-for-19-languages)
+  
+## Tools/Libraries
+  * [iNLTK](https://github.com/goru001/inltk)
+
