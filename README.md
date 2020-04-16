@@ -24,7 +24,10 @@ If any suggestions please open a new issue
 ## StopWords
   * [StopWords - 99 Words](https://www.kaggle.com/rtatman/stopword-lists-for-19-languages)
   
-## Tools/Libraries
+## Libraries
   * [iNLTK](https://github.com/goru001/inltk)
   * [Indic NLP Library](http://anoopkunchukuttan.github.io/indic_nlp_library/)
+  
+## Tools
+  * [POS Tagger](https://github.com/avineshpvs/indic_tagger)
 
