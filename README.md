@@ -12,7 +12,8 @@ If any suggestions please open a new issue
 ## Contents
 * Datasets
 * StopWords
-* Tools/Libraries
+* Libraries
+* Tools
 
 
 ## Dataset
