@@ -14,6 +14,7 @@ If any suggestions please open a new issue.
 * StopWords
 * Libraries
 * Tools
+* Papers
 
 
 ## Dataset
@@ -32,3 +33,7 @@ If any suggestions please open a new issue.
 ## Tools
   * [POS Tagger](https://github.com/avineshpvs/indic_tagger)
 
+## Papers
+  * Belerao, Mr Krushna, and V. S. Wadne. "Machine Translation Using Open NLP and Rules Based System English to Marathi Translator." International Journal on Recent and Innovation Trends in Computing and Communication 2.6 (2014): 1730-1733.
+  * Bapat, Mugdha, Harshada Gune, and Pushpak Bhattacharyya. "A paradigm-based finite state morphological analyzer for Marathi." Proceedings of the 1st Workshop on South and Southeast Asian Natural Language Processing. 2010.
+  * Rathod, Pravin H., Manikrao L. Dhore, and R. M. Dhore. "Hindi and Marathi to English machine transliteration using SVM." International Journal on Natural Language Computing 2.4 (2013): 55-71.
