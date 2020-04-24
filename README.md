@@ -32,6 +32,7 @@ If any suggestions please open a new issue.
   
 ## Tools
   * [POS Tagger](https://github.com/avineshpvs/indic_tagger)
+  * [English to Marathi Translation](https://github.com/hlamba28/Word-Level-Eng-Mar-NMT)
 
 ## Papers
   * Belerao, Mr Krushna, and V. S. Wadne. "Machine Translation Using Open NLP and Rules Based System English to Marathi Translator." International Journal on Recent and Innovation Trends in Computing and Communication 2.6 (2014): 1730-1733.
