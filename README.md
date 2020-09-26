@@ -1,4 +1,4 @@
-# awesome-marathiNLP
+# marathiNLP
 
 Curated List of Natural Language Processing resources focused on the Marathi Language
 
